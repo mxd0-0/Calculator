@@ -32,7 +32,7 @@ This is a simple calculator application built using Kotlin and Jetpack Compose. 
    ```sh
    git clone https://github.com/yourusername/calculator-app.git
    ```
-##Usage
+## Usage
 
 -Tap the buttons to input numbers and perform operations.
 -Use the "AC" button to clear the input.
